@@ -89,10 +89,3 @@ function checkYuGiOh(n) {
   }
   return console.log(arrayList);
 }
-
-checkYuGiOh("yes");
-checkYuGiOh(8);
-checkYuGiOh("fizz buzz meh");
-checkYuGiOh(true);
-checkYuGiOh([1, 2, 3]);
-checkYuGiOh({});
